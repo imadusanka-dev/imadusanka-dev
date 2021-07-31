@@ -4,6 +4,7 @@ I am a fullstack software engineer from Sri Lanka
 - 🌱 Learning design patterns in depth
 <br>
 ## Connect with me
+<br>
 <a href="https://www.linkedin.com/in/imadusanka/"><img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://twitter.com/imadusanka_"><img align="left" alt="twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
 <br>
